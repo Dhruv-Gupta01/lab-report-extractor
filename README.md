@@ -1,4 +1,4 @@
-# Lab Report Extractor — mera.health Submission
+# Lab Report Extractor 
 
 ## Setup
 
